@@ -7,7 +7,6 @@ namespace WindowsFormsApp1.Model
 
         public BubbleSortModel(IBubbleSort bubbleSort)
         {
-
             _bubbleSort = bubbleSort;
         }
 

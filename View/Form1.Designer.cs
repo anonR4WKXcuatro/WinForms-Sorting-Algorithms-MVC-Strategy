@@ -41,7 +41,6 @@
             this.txtLabel.Name = "txtLabel";
             this.txtLabel.Size = new System.Drawing.Size(296, 36);
             this.txtLabel.TabIndex = 0;
-            this.txtLabel.Text = "(LABEL)";
             this.txtLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnSort
